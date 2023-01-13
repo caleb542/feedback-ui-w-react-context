@@ -3,7 +3,6 @@ import Card from "./shared/Card"
 import Button from "./shared/Button"
 import RatingSelect from "./RatingSelect"
 import FeedbackContext from "../context/FeedbackContext"
-import FeedbackItem from "./FeedbackItem"
 
 function FeedbackForm() {
   
