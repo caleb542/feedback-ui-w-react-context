@@ -5,7 +5,8 @@ function FeedbackStats() {
   const { feedback } = useContext(FeedbackContext)
    // calc ratings average
    let average = feedback.reduce((acc, cur) => {
-        return acc + cur.rating
+   
+  return acc + Math.round(cur.rating)
    }, 0) / feedback.length
 
    average = average.toFixed(1).replace(/[.,]0$/, '') // If not a whole number show only 1 decimal place.  If it is a whole number don't show the decimal 0 value, but rather just the integer
