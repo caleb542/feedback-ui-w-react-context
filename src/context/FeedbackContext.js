@@ -7,27 +7,27 @@ export const FeedbackProvider = ({children}) => {
     const [feedback, setFeedback] = useState([
         {
             id: 1,
-            text: 'You are nice nice people',
+            text: 'Great service and great people',
             rating: 10
         },
         {
             id: 2,
-            text: 'Your recipes are SO greet',
+            text: 'Very well written recipes',
             rating: 8
         },
         {
             id: 3,
-            text: 'I want to eat your muff-ins',
+            text: 'I want to eat everything here',
             rating: 9
         },
         {
             id: 4,
-            text: 'Not too salty and very nutricious',
+            text: 'Everything is so good',
             rating: 5
         },
         {
             id: 5,
-            text: 'I got a little messy but it might be my fault, not sure |:( ',
+            text: 'I am a terrible cook :( But I made the stew and it was delicious!',
             rating: 2
         },
 

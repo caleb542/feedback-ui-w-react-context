@@ -12,7 +12,7 @@ const FeedbackData = [
     {
       id: 3,
       rating: 8,
-      text: 'Qui culpa elit cillum duis nisi id nisi exercitation voluptate nisi aute anim. Aute dolore id adipisicing dolor reprehenderit duis nulla excepteur non dolor Lorem occaecat ex. In do voluptate esse nisi ipsum sunt consectetur excepteur esse laboris est.',
+      text: 'Kulpa elit cillum duis nisi id nisi exercitation voluptate nisi aute anim. Aute dolore id adipisicing dolor reprehenderit duis nulla excepteur non dolor Lorem occaecat ex. In do voluptate esse nisi ipsum sunt consectetur excepteur esse laboris est.',
     },
   ]
   
